@@ -26,20 +26,20 @@ I'm an aspiring Machine Learning Engineer with a strong foundation in Python, ap
 
 ### **Microsoft (via Coursera)**
 - **Automation and Scripting with Python** (Sep 8, 2025)  
-  :contentReference[oaicite:1]{index=1}
+  
 - **Data Analysis and Visualization with Python** (Aug 16, 2025)  
-  :contentReference[oaicite:2]{index=2}
+  
 - **Python Programming Fundamentals** (Jul 26, 2025)  
-  :contentReference[oaicite:3]{index=3}
+  
 
 ### **IBM (via Coursera)**
 - **Introduction to Software Engineering** (Jun 12, 2025)  
-  :contentReference[oaicite:4]{index=4}
+  
 
 ### **Stanford / DeepLearning.AI — Machine Learning Specialization**  
 *(Supervised ML, Advanced Algorithms, Unsupervised Learning)*  
 Completed Nov 18, 2025  
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
