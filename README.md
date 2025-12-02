@@ -39,7 +39,7 @@ I'm an aspiring Machine Learning Engineer with a strong foundation in Python, ap
 ### **Stanford / DeepLearning.AI — Machine Learning Specialization( Andrew Ng)**  
 *(Supervised ML, Advanced Algorithms, Unsupervised Learning)*  
 Completed Nov 18, 2025 
-- Currently pursuing: **AWS Machine Learning Specialty (MLS-C01)**
+- Currently pursuing: **AWS Certified Machine Learning Engineer - Associate (MLA-C01)**
 
 
 ---
