@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Juante — Machine Learning Engineer (Entry-Level)
+## 👋 Hi, I'm Juante — Machine Learning Engineer (Entry-Level)| Applied Data Scientist
 
 I'm an aspiring Machine Learning Engineer with a strong foundation in Python, applied machine learning, and end-to-end project development. I focus on building practical ML systems that solve real-world problems — from fraud detection to computer vision to recommender systems.
 
