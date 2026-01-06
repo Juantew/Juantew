@@ -1,70 +1,65 @@
-## 👋 Hi, I'm Juante — Machine Learning Engineer (Entry-Level)| Applied Data Scientist
+## 👋 Hi, I’m Juante  
+**Applied Data Scientist | Machine Learning Engineer (Entry-Level)**
 
-I'm an aspiring Machine Learning Engineer with a strong foundation in Python, applied machine learning, and end-to-end project development. I focus on building practical ML systems that solve real-world problems — from fraud detection to computer vision to recommender systems.
-
----
-
-## 🔍 What I’m Working On
-
-### 🚀 Current ML Portfolio Projects
-- **Credit Card Fraud Detection (Logistic Regression + XGBoost)**  
-  Full end-to-end, imbalanced classification project with threshold tuning.
-- **Movie Recommendation System (Collaborative + Content-Based)**  
-  Personalized recommendations using embeddings and similarity search.
-- **Image Classifier (TensorFlow CNN)**  
-  Deep learning model for multi-class image classification.
-- **Spam Detection with NLP**  
-  ML pipeline using text preprocessing, TF-IDF, and logistic regression.
-
-### 📚 Continuing To Build
-- Expanding my ML portfolio to 3–5 complete deployable projects.
-- Integrating AWS services (Lambda, S3, SageMaker) into ML workflows.
+I build **end-to-end machine learning systems** using Python, focusing on models that solve real-world problems and balance performance with practical constraints.  
+My work spans **fraud detection, recommender systems, computer vision, and NLP**, with an emphasis on evaluation, interpretability, and business impact.
 
 ---
 
-## 🎓 Certifications
+## 🚀 Featured Projects
 
-### **Microsoft (via Coursera)**
-- **Automation and Scripting with Python** (Sep 8, 2025)  
-  
-- **Data Analysis and Visualization with Python** (Aug 16, 2025)  
-  
-- **Python Programming Fundamentals** (Jul 26, 2025)  
-  
+### 🛡️ Credit Card Fraud Detection  
+End-to-end imbalanced classification project using **Logistic Regression and XGBoost**, with a focus on **precision/recall trade-offs, ROC-AUC**, and threshold tuning for real-world decision making.  
+➡️ *Applied ML, evaluation, business interpretation*
 
-### **IBM (via Coursera)**
-- **Introduction to Software Engineering** (Jun 12, 2025)  
-  
+### 🎬 Movie Recommendation System  
+Personalized recommender system using **collaborative filtering and content-based methods**, evaluated with RMSE and Top-N recommendations.  
+➡️ *Recommender systems, similarity search, embeddings*
 
-### **Stanford / DeepLearning.AI — Machine Learning Specialization( Andrew Ng)**  
-*(Supervised ML, Advanced Algorithms, Unsupervised Learning)*  
-Completed Nov 18, 2025 
-- Currently pursuing: **AWS Certified Machine Learning Engineer - Associate (MLA-C01)**
+### 🖼️ Image Classification (TensorFlow CNN)  
+Multi-class image classifier built with **TensorFlow/Keras**, applying convolutional architectures and regularization to reduce overfitting.  
+➡️ *Deep learning, unstructured data*
 
+### ✉️ Spam Detection with NLP  
+Text classification pipeline using **TF-IDF, feature engineering, and logistic regression** to detect spam messages.  
+➡️ *NLP preprocessing, classical ML*
 
 ---
 
 ## 🧠 Technical Skills
 
 **Languages:** Python, SQL  
-**ML:** Scikit-Learn, XGBoost, data preprocessing, model evaluation  
+**Machine Learning:** Scikit-Learn, XGBoost, feature engineering, model evaluation  
 **Deep Learning:** TensorFlow (CNNs, MLPs), embeddings  
 **NLP:** Text cleaning, tokenization, TF-IDF, classification  
-**Tools:** Jupyter, VS Code, Git/GitHub, NumPy, Pandas, Matplotlib  
+**Data & Tools:** Pandas, NumPy, Matplotlib, Jupyter, VS Code, Git/GitHub  
 **Cloud:** AWS fundamentals (S3, EC2, Lambda, SageMaker basics)
 
 ---
 
-## 🚀 What I’m Learning Next
-- AWS SageMaker training/deployment pipelines  
-- Model optimization: GridSearch, RandomSearch, Optuna  
-- ML system design & real-time inference  
+## 🎓 Education & Certifications
+
+- **Machine Learning Specialization** — DeepLearning.AI / Stanford Online (Andrew Ng)  
+  *Supervised ML, Advanced Algorithms, Unsupervised Learning, Recommenders*
+- **Automation and Scripting with Python** — Microsoft (Coursera)  
+- **Data Analysis and Visualization with Python** — Microsoft (Coursera)  
+- **Python Programming Fundamentals** — Microsoft (Coursera)  
+- **Introduction to Software Engineering** — IBM (Coursera)  
+- **Currently pursuing:** AWS Certified Machine Learning Engineer – Associate (MLA-C01)
+
+---
+
+## 📚 What I’m Learning Next
+- AWS SageMaker training and deployment pipelines  
+- Model optimization (GridSearch, RandomSearch, Optuna)  
+- ML system design and real-time inference  
 - Feature stores, monitoring, and model drift detection  
 
 ---
 
 ## 📫 Let’s Connect
+I’m actively seeking **Applied Data Scientist I** or **Machine Learning Engineer I** opportunities.  
+Open to collaboration, mentorship, and building production-minded ML systems.
 
-I'm actively expanding my portfolio and seeking opportunities in machine learning or AI engineering.  
-Always open to collaboration, mentorship, and building real-world ML systems.
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/juantewilson  
+🔗 **Portfolio:** https://github.com/Juantew
