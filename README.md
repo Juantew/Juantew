@@ -61,5 +61,5 @@ Text classification pipeline using **TF-IDF, feature engineering, and logistic r
 I’m actively seeking **Applied Data Scientist I** or **Machine Learning Engineer I** opportunities.  
 Open to collaboration, mentorship, and building production-minded ML systems.
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/juantewilson  
+🔗 **LinkedIn:** https://www.linkedin.com/in/juante-wilson-044771280/  
 🔗 **Portfolio:** https://github.com/Juantew
